@@ -14,3 +14,6 @@ chmod 666 /dev/rt*
 
 echo 0 > /dev/rtmotoren0
 
+#!/bin/bash -xve
+#written by ubuntu2025
+
